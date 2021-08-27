@@ -1,0 +1,20 @@
+body{
+    background-color: lightblue;
+}
+.container-fluid{
+    display: flex;
+}
+.section-list{
+    flex:3;
+}
+
+.section-form{
+    flex:2;
+}
+
+#important{
+    font: size 35px;
+    color:blue;
+    cursor:pointer;
+
+}
